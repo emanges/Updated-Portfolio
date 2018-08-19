@@ -1,0 +1,90 @@
+#emily{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+}
+
+
+.nav-link{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(3, 3, 68);
+    font-size: 30px;
+}
+
+#container{
+    background-color:rgb(238, 218, 215);
+    border-top-color: rgb(3, 3, 68);
+    border-top-style: solid;
+    border-top-width: 1px;
+    padding-left: 170px;
+    padding-right:170px;
+    padding-bottom: 170px;
+}
+
+#picture{
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+}
+
+#txt2{
+    font-family:'Abril Fatface', cursive;
+    color: rgb(226, 154, 61);
+    font-weight: bold;
+}
+
+#paragraph{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    color: rgb(3, 3, 68);
+    padding: 10px;
+
+}
+
+#contact{
+    font-size: 25px;
+    position: static;
+    bottom: 2px;
+
+}
+
+#resume{
+    color: navy;
+}
+
+#txt4{
+    color: rgb(43, 43, 92);
+    font-family:'Abril Fatface', cursive;
+    font-weight: bold;
+}
+
+#containerResume{
+    background-color: rgb(43, 43, 92);
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    color: rgb(3, 3, 68);
+    font-size: 14px;
+}
+
+p{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    color: rgb(3, 3, 68);
+    font-size: 14px;
+}
+
+.link{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    color: rgb(3, 3, 68);
+    font-size: 14px; 
+}
+
+.container2{
+    background-color:rgb(238, 218, 215);
+    border-top-color: rgb(3, 3, 68);
+    border-top-style: solid;
+    border-top-width: 1px;
+    padding-top: 15px;
+}
